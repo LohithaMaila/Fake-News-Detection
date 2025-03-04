@@ -1,11 +1,11 @@
 # Fake_News_Detection
 <h1> Objective: </h1>
 <p> The objective of this project is to develop an intelligent system that can automatically classify news articles as real or fake using machine learning techniques. By leveraging Natural Language Processing (NLP) and classification algorithms, this project aims to: </p>
-<li>1. Detect and classify misleading news articles with high accuracy.</li>
-<li>2. Improve trustworthiness of online content by flagging fake news.</li>   
-<li>3. Enhance feature extraction using advanced NLP techniques such as TF-IDF, Word2Vec, and N-grams.</li>
-<li>4. Optimize model performance through hyperparameter tuning and comparative analysis of different classifiers.</li>
-<li>5. Provide a user-friendly interface for real-time fake news detection.</li>
+<li> Detect and classify misleading news articles with high accuracy.</li>
+<li> Improve trustworthiness of online content by flagging fake news.</li>   
+<li> Enhance feature extraction using advanced NLP techniques such as TF-IDF, Word2Vec, and N-grams.</li>
+<li> Optimize model performance through hyperparameter tuning and comparative analysis of different classifiers.</li>
+<li> Provide a user-friendly interface for real-time fake news detection.</li>
 <h2> Prerequisites: </h2>
 <p>To run this project, ensure you have the following installed:</p>
 <h2>1. Python 3.6+ </h2>
