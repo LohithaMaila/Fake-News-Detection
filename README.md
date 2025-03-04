@@ -7,7 +7,7 @@
 <li> Optimize model performance through hyperparameter tuning and comparative analysis of different classifiers.</li>
 <li> Provide a user-friendly interface for real-time fake news detection.</li>
 
-<p>The dataset used for this project were in csv format named train.csv, test.csv and valid.csv and can be found in repository.</p>
+<li>The dataset used for this project were in csv format named train.csv, test.csv and valid.csv and can be found in repository.</li>
 
 <h2> Prerequisites: </h2>
 <p>To run this project, ensure you have the following installed:</p>
