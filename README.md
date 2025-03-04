@@ -1,11 +1,11 @@
 # Fake_News_Detection
 <h1> Objective: </h1>
 <p> The objective of this project is to develop an intelligent system that can automatically classify news articles as real or fake using machine learning techniques. By leveraging Natural Language Processing (NLP) and classification algorithms, this project aims to: </p>
-<h2>1.</h2> Detect and classify misleading news articles with high accuracy.
-<h2>2.</h2> Improve trustworthiness of online content by flagging fake news.
-<h2>3.</h2>Enhance feature extraction using advanced NLP techniques such as TF-IDF, Word2Vec, and N-grams.
-<h2>4.</h2>Optimize model performance through hyperparameter tuning and comparative analysis of different classifiers.
-<h2>5.</h2>Provide a user-friendly interface for real-time fake news detection.
+  1. Detect and classify misleading news articles with high accuracy.
+  2. Improve trustworthiness of online content by flagging fake news.
+  3. Enhance feature extraction using advanced NLP techniques such as TF-IDF, Word2Vec, and N-grams.
+  4. Optimize model performance through hyperparameter tuning and comparative analysis of different classifiers.
+  5. Provide a user-friendly interface for real-time fake news detection.
 <h2> Prerequisites: </h2>
 <p>To run this project, ensure you have the following installed:</p>
 <h2>1. Python 3.6+ </h2>
@@ -24,7 +24,7 @@ Run the following commands to install dependencies:
     conda install -c scikit-learn
     conda install -c anaconda numpy scipy pandas nltk
 </ul>
-### File descriptions
+<h2> File descriptions </h2>
 
 #### DataPrep.py
 This file contains all the pre processing functions needed to process all input documents and texts. First we read the train, test and validation data files then performed some pre processing like tokenizing, stemming etc. There are some exploratory data analysis is performed like response variable distribution and data quality checks like null or missing values etc.
