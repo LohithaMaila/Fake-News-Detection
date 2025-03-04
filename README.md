@@ -6,7 +6,9 @@
 <li> Enhance feature extraction using advanced NLP techniques such as TF-IDF, Word2Vec, and N-grams.</li>
 <li> Optimize model performance through hyperparameter tuning and comparative analysis of different classifiers.</li>
 <li> Provide a user-friendly interface for real-time fake news detection.</li>
+
 <p>The dataset used for this project were in csv format named train.csv, test.csv and valid.csv and can be found in repository.</p>
+
 <h2> Prerequisites: </h2>
 <p>To run this project, ensure you have the following installed:</p>
 <h2>1. Python 3.6+ </h2>
